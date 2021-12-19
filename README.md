@@ -91,6 +91,8 @@ and upload the model to our system.
 Before the model can be used it goes through a series of examinations, against real life data, our database. Only if the model passes a certain threshold will it be added to the collection of
 models that we will see in the next section.
 
+<img src="images/model_dev.png">
+
 <img src="images/model_dev1.png">
 
 <img src="images/model_dev2.png">
