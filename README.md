@@ -24,9 +24,9 @@ fully functional CRUD user-interface with dashboard presenting water-soil report
 Model Database – Last but not least we need to store our models and allow other researchers to upload and contribute to the mission. Of course, we also need to allow applying them on new problems. 
 
 ### Technologies
-Backend – Django and Django Rest Framework
-Frontend – React, bootstrap, Tableau, google maps, chart.js
-Database – PostgreSQL
+Backend – Django and Django Rest Framework<br>
+Frontend – React, bootstrap, Tableau, google maps, chart.js<br>
+Database – PostgreSQL<br>
 Deployment – Docker
 
 <img src="images/arch.jpg">
